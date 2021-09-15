@@ -1,6 +1,6 @@
 👋 Hola Mundo ! 
 
-🤖 Automation | 💙 Engineer
+🤖 Automation | 🐍 Engineer
 
 Interesado en:
 
